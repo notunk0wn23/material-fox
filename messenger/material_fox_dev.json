@@ -1,0 +1,9 @@
+{
+  "name": "my_python_host",
+  "description": "My Python Native Messaging Host",
+  "path": "",
+  "type": "stdio",
+  "allowed_extensions": [
+    "my-firefox-extension-id"
+  ]
+}
