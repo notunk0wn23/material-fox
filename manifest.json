@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Material Fox",
+    "version": "1.0",
+    "description": "A firefox theme using live-reloading material 3 files from your system.",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["nativeMessaging"],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
